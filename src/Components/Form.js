@@ -59,8 +59,9 @@ const Form = (props) => {
                 />
             </label>
                 <input
+                    id='submitBtn'
                     type='submit'
-                    name='Create a Friend'
+                    name='submitBtn'
                 />
         
         </form>
